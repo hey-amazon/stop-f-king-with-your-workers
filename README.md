@@ -3,7 +3,8 @@
 I hope you already read [environmentally-friendly-biz-suggestion](https://github.com/hey-amazon/environmentally-friendly-biz-suggestion) — if not: Please do so now.
 
 Here's a list of things you can and should do, Amazon:
-- Give them proper health care and proper sick leave.
+- Give them proper health care and proper sick leave, which also includes:
+- If you can't ensure safety for your workers then don't open your facilities. #COVID19
 - Give them equal and proper pay which is 20$/hour minimum (or equal value in other currency).
 - Give them bonus on holidays or better yet:
 - Give them 40 days of paid holidays, let them pick the dates freely.
